@@ -1,4 +1,4 @@
-# ReduxWeatherApp
+# ReduxBookApp
 
 Project from [Redux course](https://www.udemy.com/react-redux/)
 
